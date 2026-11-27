@@ -204,12 +204,15 @@ In NetBeans, you can also right-click the project and select Run.
 Build Using Maven
 From the project folder, run:
 mvn clean package
-11. Sample Login Accounts
-The database script includes sample accounts for testing:
+11. Assigned Roles: Leader- Ricci,jerom
+ Programmer, Joemar,Jerom
+ Backend, - Andrei,Sean
+Frontend,- Ricci,Mark joseph 
+ PowerPoint Presentation, - Joemar,Mark joseph
+Documentation,- Christy
 
-  Role            Username    Password
-  Administrator   admin     admin123
-Cashier         cashier   cashier123
+
+ System Designer- Sean,Andrei
 
 These are sample credentials. Change them and use secure passwords
 before deploying the application in an actual environment.
@@ -224,6 +227,9 @@ before deploying the application in an actual environment.
 <img width="1917" height="1198" alt="Screenshot 2026-11-26 101801" src="https://github.com/user-attachments/assets/11612f79-b1d1-44d4-9862-da458c5b9aab" />
 <img width="1917" height="1198" alt="Screenshot 2026-11-26 101741" src="https://github.com/user-attachments/assets/bd173a7c-2270-4970-a74a-dad25bd3f69a" />
 <img width="1917" height="1198" alt="Screenshot 2026-11-26 101732" src="https://github.com/user-attachments/assets/08b8e148-36b4-4542-aaa9-2b199f42f41d" />
+
+ 14. ERD
+     <img width="1467" height="825" alt="Screenshot 2026-11-27 114252" src="https://github.com/user-attachments/assets/af92b14b-c611-4d85-9ace-bcec5d96824b" />
 
 
 ISUFST POS
